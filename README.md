@@ -118,14 +118,14 @@ Views: `get_risk(item_id)`, `meets_max_risk(item_id, max_risk)`, `get_drift(item
 Only FINAL, current ratings are exposed through `get_risk`, `get_risk_by_url`, `get_project_risk` and `meets_max_risk`. An empty string or `False` means "no current final rating".
 
 ```python
-registry = gl.get_contract_at(Address("0xLOCKSIGHT_ADDRESS"))
+registry = gl.get_contract_at(Address("0x3EfeFc24B08F330409352Ab6f3CACc1A9207753E"))
 if not registry.view().meets_max_risk("t1", "MEDIUM"):
     raise Exception("no current final rating of MEDIUM or lower")
 ```
 
 ## Deployment
 
-Studio deployment: ADDRESS (constructor `900, 1800`).
+Studio deployment: `0x3EfeFc24B08F330409352Ab6f3CACc1A9207753E` (constructor `900, 1800`).
 
 The contract is submitted on its own; there is no frontend in this repository. `evidence/` holds sample tokenomics pages used for live testing. The sample prefix is `https://raw.githubusercontent.com/Mary1270/LockSight/main/evidence/`.
 
