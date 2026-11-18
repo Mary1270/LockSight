@@ -1,0 +1,6 @@
+Borealis Network - Amendment to the token allocation page
+
+This note amends the page at https://raw.githubusercontent.com/Mary1270/LockSight/main/evidence/borealis-v1.txt
+
+Cliff: the cliff was removed, there is no cliff period.
+Initial unlock: 25% of the team allocation is unlocked at token generation.

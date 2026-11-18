@@ -1,0 +1,9 @@
+Cinder Labs - Token Allocation and Vesting (version 1)
+
+Total supply: 2,000,000,000 CIN.
+
+Team allocation: the team receives 25% of the total supply.
+Cliff: team tokens have a 2 month cliff.
+Vesting: after the cliff, team tokens vest linearly over 6 months.
+Initial unlock: 5% of the team allocation is unlocked at token generation.
+Lock: team tokens are locked in a vesting smart contract.

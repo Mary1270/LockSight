@@ -1,0 +1,9 @@
+Aurora Protocol - Token Allocation and Vesting (version 1)
+
+Total supply: 1,000,000,000 AUR.
+
+Team allocation: the core team receives 15% of the total supply.
+Cliff: team tokens have a 12 month cliff, so nothing vests during the first year.
+Vesting: after the cliff, team tokens vest linearly over 36 months.
+Initial unlock: 5% of the team allocation is unlocked at token generation.
+Lock: all team tokens are locked in a vesting smart contract that the team cannot upgrade.

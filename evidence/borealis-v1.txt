@@ -1,0 +1,9 @@
+Borealis Network - Token Allocation and Vesting (version 1)
+
+Total supply: 500,000,000 BOR.
+
+Team allocation: the team receives 18% of the total supply.
+Cliff: team tokens have a 9 month cliff.
+Vesting: after the cliff, team tokens vest linearly over 30 months.
+Initial unlock: 5% of the team allocation is unlocked at token generation.
+Lock: team tokens are held in escrow by a third-party custodian.

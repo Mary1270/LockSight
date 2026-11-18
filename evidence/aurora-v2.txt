@@ -1,0 +1,11 @@
+Aurora Protocol - Token Allocation and Vesting (version 2)
+
+Supersedes: https://raw.githubusercontent.com/Mary1270/LockSight/main/evidence/aurora-v1.txt
+
+Total supply: 1,000,000,000 AUR.
+
+Team allocation: the core team now receives 35% of the total supply.
+Cliff: there is no cliff, team tokens start vesting immediately.
+Vesting: team tokens vest linearly over 12 months.
+Initial unlock: 15% of the team allocation is unlocked at token generation.
+Lock: team tokens are held by a third-party custodian.

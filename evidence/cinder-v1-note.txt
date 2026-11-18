@@ -1,0 +1,5 @@
+Cinder Labs - Clarification of the token allocation page
+
+This note clarifies the page at https://raw.githubusercontent.com/Mary1270/LockSight/main/evidence/cinder-v1.txt
+
+Team allocation: the team receives 27% of the total supply.
